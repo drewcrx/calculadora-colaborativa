@@ -13,7 +13,7 @@ def division(a, b):
     return a / b
 
 def main():
-    print("=== Calculadora Colaborativa - Version 1.0 ===")   # <-- línea modificada por B
+    print("======= CALCULADORA COLABORATIVA - Version 1.0 =======")
     x = float(input("Primer número: "))
     y = float(input("Segundo número: "))
     print("Suma:", suma(x, y))
@@ -23,3 +23,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    
+
