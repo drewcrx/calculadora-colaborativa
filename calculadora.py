@@ -8,7 +8,7 @@ def multiplicacion(a, b):
     return a * b
 
 def main():
-    print("=== Calculadora Colaborativa ===")
+    print("======= CALCULADORA COLABORATIVA =======")   # <-- línea modificada por A (diferente a la de B)
     x = float(input("Primer número: "))
     y = float(input("Segundo número: "))
     print("Suma:", suma(x, y))
